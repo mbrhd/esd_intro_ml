@@ -17,8 +17,11 @@ conda activate esd_intro_ml
 
 Après l'activation de l'environnement, veuillez installer les librairies nécessaires:
 ```
-conda install jupyter
+pip install -r requirements.txt
+```
+Après installation des librairies python, veuillez installer les extensions pour Jupyter Notebook
 
 ```
- 
+sh install_nb_extensions.sh
+``` 
 
