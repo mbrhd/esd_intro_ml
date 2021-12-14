@@ -3,6 +3,7 @@ jupyter_contrib_nbextensions
 numpy
 pandas
 matplotlib
+seaborn
 tqdm
 jupyter_latex_envs 
 scikit-learn
