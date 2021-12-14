@@ -1,0 +1,8 @@
+jupyter
+jupyter_contrib_nbextensions
+numpy
+pandas
+matplotlib
+tqdm
+jupyter_latex_envs 
+pip install -U scikit-learn
