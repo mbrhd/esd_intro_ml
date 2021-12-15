@@ -4,15 +4,24 @@ slidenumbers: true
 footer: Mehdi Brahimi, Ph.D.
 
 
-# Comment les machines "apprennent" ?
+# Marketing et Machine Learning
 ![](https://images.unsplash.com/photo-1557838923-2985c318be48?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2531&q=80)
 
 ---
 # Améliorer la connaissance du marché
 ---
 ## Identification et ciblage du marché
+![right 240%](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_u_RMJiFdaEijDGqqZ9uUxeHnfEC63oSslY5jdJBBSAjLSTY3m0u7QfzeoNb-VannU-I&usqp=CAU)
+
+
+* la quantité de données dans le marketing digitale est trop importante pour pouvoir la traiter manuellement
+* On peut utiliser les algorithmes de ML pour:
+	* identifier les différents types de clients sur le matché
+	* identifier les messages les plus pertinents à diffuser (le cotenu, l'image, couleur, etc.)
+
+^
 * Les campagnes digitales génère tellement de données qu'il en devient impossible de les traiter manuellement.
-* On utiliser un algorithme de ML pour le faire à notre place:
+* On  peut utiliser un algorithme de ML pour le faire à notre place:
 	* se concentrer sur l'identification des personas du marché
 	* Vous pouvez également déterminer les messages auxquels vos clients répondent le plus. (le messages, ça peut être une image, ça peut être une couleur, ça peut être des mises en page) 
 
@@ -20,6 +29,10 @@ Exemple: [Harley Davidson](https://hbr.org/2017/05/how-harley-davidson-used-pred
 
 ---
 ## Identification et ciblage du marché
+
+
+![right 50%](https://images.unsplash.com/photo-1607703703520-bb638e84caf2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80)
+
 * __ML Process__:
 	1- analyser les données clients (temps passé sur votre site internet, ajout d'un item, souscription à la newsletter)
 	2- Organiser les groupements. Le ML nous permeettre de définir des groupes de profils type.
@@ -34,12 +47,18 @@ dataset: 01-02-Target.csv
 
 ---
 ## Media planning et implementation 
+![right](https://images.unsplash.com/photo-1582091652153-eb8f55ff7cd9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=928&q=80)
+
 * Le prix moyen d'une annonce numérique est d'environ 1,50 $ par clic. Une publicité Superbowl coûte cinq millions de dollars pour 30 secondes de temps d'antenne.
 * il existe différents médias à différents prix, pour différents publics, à différentes fins
 * omment comparer des pommes avec des pommes entre une publicité sur les réseaux sociaux et une publicité pendant le Superbowl ? La réponse, l'analyse comparative.
 * cost per action (CoIut par action)
 * Seven Times Rule (to trigger a response)
 
+---
+## Media planning et implementation 
+
+Use case !
 dataset: 01-04-Media.csv
 
 ---
@@ -49,7 +68,7 @@ dataset: 01-04-Media.csv
 
 * Prédire l'offre et la demande permet d'ajuster le budget de publicitaire
 
-![inline](https://miro.medium.com/max/1400/0*cYlfIH9JwQJVtmjR.png)
+![right](https://miro.medium.com/max/1400/0*cYlfIH9JwQJVtmjR.png)
 
 ---
 ## Prédire la demande 
