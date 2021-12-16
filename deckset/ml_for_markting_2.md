@@ -155,7 +155,5 @@ Demo!
 dataset: https://vize.ai/
 
 ---
-
-# Type d'apprentissage en ML
-![inline](../images/ml_types.png)
+# Merci !
 
